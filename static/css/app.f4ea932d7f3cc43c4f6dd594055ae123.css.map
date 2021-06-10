@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.f4ea932d7f3cc43c4f6dd594055ae123.css"],"names":[],"mappings":"AACA,kBACI,QAAS,CACT,UACJ","file":"app.f4ea932d7f3cc43c4f6dd594055ae123.css","sourcesContent":["\n.fixed-action-btn{\r\n    top: auto;\r\n    bottom: 10%;\n}\r\n"]}
